@@ -1,0 +1,3 @@
+cloud computing means server that can be acessed virtually
+cloud computing has iaas paas saas model 
+it help to grow bussiness
